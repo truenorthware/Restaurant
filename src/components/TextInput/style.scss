@@ -1,0 +1,15 @@
+  .input-text {
+    margin-top: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+
+    input {
+      width: calc(100% - 34px);
+      margin: 13px 17px;
+      border: none;
+    }
+
+    input:focus {
+      outline: none;
+    }
+  }
